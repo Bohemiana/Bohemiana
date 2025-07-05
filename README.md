@@ -1,5 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bohemiana&show_icons=true&theme=ambient_gradient)
 <img src="https://komarev.com/ghpvc/?username=bohemiana&label=Views&color=blueviolet&style=flat" alt="访问量统计" />&emsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bohemiana&show_icons=true&theme=ambient_gradient)
+
 <!--
 **Bohemiana/Bohemiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
