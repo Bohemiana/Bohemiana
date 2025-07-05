@@ -1,6 +1,3 @@
-## Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Bohemiana&left_color=green&right_color=ambient_gradient)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bohemiana)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bohemiana&show_icons=true&theme=ambient_gradient)
 <!--
 **Bohemiana/Bohemiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
