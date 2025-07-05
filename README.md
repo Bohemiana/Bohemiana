@@ -1,4 +1,5 @@
-<img src="https://komarev.com/ghpvc/?username=bohemiana&label=Views&color=blueviolet&style=flat" alt="访问量统计" />&emsp;
+<img src="https://komarev.com/ghpvc/?username=bohemiana&label=Views&color=blueviolet&style=flat" alt="访问量统计" />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bohemiana&show_icons=true&theme=ambient_gradient)
 
 <!--
